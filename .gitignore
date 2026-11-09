@@ -2,8 +2,6 @@ node_modules/
 dist/
 .next/
 
-.env
-.env.local
 .env*.local
 !.env.example
 
@@ -11,3 +9,4 @@ dev.out
 dev.err
 *.log
 *.tsbuildinfo
+config.bat
